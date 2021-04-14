@@ -60,3 +60,7 @@ h1{
     opacity: 1;
 }
 
+.elimina{
+    text-decoration: line-through;
+}
+
